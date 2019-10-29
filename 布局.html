@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+   
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .box{overflow: hidden;height: 100px;}
+        .box>div{height: 100%;float: left;}
+     
+        .left1{width: 100px;background: yellow;}
+        .right1{background: #09c;width:calc(100% - 100px);}
+        .top{height:20px;width:100%;background-color: red;}
+    </style>
+</head>
+<body>
+        <div class="top">wwww</div>
+        <div class="box" id="box1">
+            
+                <div class="left1">左侧定宽</div>
+                <div class="right1">右侧自适应</div>
+            </div>
+</body>
+</html>
