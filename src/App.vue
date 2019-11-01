@@ -1,5 +1,4 @@
 <template>
-
   <div id="app">dev分支ßrtr  我在github上修改de 我在master中更改的  我在dev上更改的
 
     <img src="./assets/logo.png">
@@ -16,7 +15,6 @@ export default {
 <!--<style lang="less">
 @nice-blue: #5B83AD;
 @light-blue:@nice-blue;
-
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
