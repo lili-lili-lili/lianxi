@@ -1,5 +1,7 @@
 <template>
-  <div id="app">dev分支ßrtr  我在github上修改de 我在master中更改的
+
+  <div id="app">dev分支ßrtr  我在github上修改de 我在master中更改的  我在dev上更改的
+
     <img src="./assets/logo.png">
     <router-view/>
   </div>
