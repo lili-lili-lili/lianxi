@@ -1,7 +1,5 @@
 <template>
-
-  <div id="app">dev分支ßhahahdhakjhdad
-
+  <div id="app">dev分支ßrtr  我在github上修改de 
     <img src="./assets/logo.png">
     <router-view/>
   </div>
